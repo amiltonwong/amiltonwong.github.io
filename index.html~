@@ -69,7 +69,6 @@ $ git checkout gh-pages
 <h3>
 <a name="courses" class="anchor" href="#courses"><span class="octicon octicon-link"></span></a>Courses</h3>
 <li>Machine Learning</li>
-courses taking<br>
 <li>Statistical Learning</li>
 <li>Convex Optimization</li>
 <li>Information Theory</li>
